@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snoveedh
 - 👀 I’m interested in Python,Django,AWS,[Postgresql/Mysql/Oracle],HTML,Bootstrap,Git,CSS
-- 🌱 I’m currently learning AWS and More More More in Django
+- 🌱 I’m currently learning AWS and More More More in Django, Artificial Intelligence, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... syed.noveedh@gmail.com
 
